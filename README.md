@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Emanuele, a full-stack engineer focused on building fast, scalable web apps. I work mainly with Next.js, TypeScript, Node, Express, MongoDB, Firebase, and Stripe. Currently building my e-commerce project and growing my freelance portfolio.
+I’m Emanuele, a full-stack engineer focused on building fast, scalable web apps. I work mainly with Next.js, TailwindCss, TypeScript, Node, Express, MongoDB, Firebase, and Stripe. Currently building my e-commerce project and growing my freelance portfolio.
 
 
 ## 🌐 Socials:
